@@ -1,1 +1,1 @@
-# EditorAwatds
+# EditorAwards
